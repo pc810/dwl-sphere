@@ -13,4 +13,4 @@ module.exports="#define GLSLIFY 1\nuniform float time;\n\nvarying vec2 vUv;\nvar
 },{"three":"gBK8","./shaders/fragment.glsl":"k6p3","./shaders/vertex.glsl":"hNHB","./shaders/gridfragment.glsl":"SB01","./shaders/gridvertex.glsl":"cgIi"}],"A2T1":[function(require,module,exports) {
 "use strict";var e=n(require("./module"));function n(e){return e&&e.__esModule?e:{default:e}}var t=new e.default({dom:document.getElementById("container")});function u(){window.requestAnimationFrame(u)}u();
 },{"./module":"GnY5"}]},{},["A2T1"], null)
-//# sourceMappingURL=/app.3ac040cc.js.map
+//# sourceMappingURL=/dwl-sphere/app.3ac040cc.js.map
